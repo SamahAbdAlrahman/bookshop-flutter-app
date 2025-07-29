@@ -1,0 +1,1 @@
+ C:\\Users\\Huawei\\StudioProjects\\my_project\\.dart_tool\\flutter_build\\dce603324bb31664434e6232e7b4e1dc\\native_assets.yaml: 
